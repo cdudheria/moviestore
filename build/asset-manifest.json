@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.416c48ef.chunk.css",
+    "main.js": "/static/js/main.6053533d.chunk.js",
+    "main.js.map": "/static/js/main.6053533d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bd051611.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bd051611.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ee66bcd7.chunk.js": "/static/js/2.ee66bcd7.chunk.js",
+    "static/js/2.ee66bcd7.chunk.js.map": "/static/js/2.ee66bcd7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.416c48ef.chunk.css.map": "/static/css/main.416c48ef.chunk.css.map",
+    "static/js/2.ee66bcd7.chunk.js.LICENSE.txt": "/static/js/2.ee66bcd7.chunk.js.LICENSE.txt",
+    "static/media/Avengers.ca453418.jpeg": "/static/media/Avengers.ca453418.jpeg",
+    "static/media/Friends.9a9d343b.jpeg": "/static/media/Friends.9a9d343b.jpeg",
+    "static/media/Spiderman.d2a4bc9d.jpeg": "/static/media/Spiderman.d2a4bc9d.jpeg",
+    "static/media/aquaman.ce1fcdae.jpeg": "/static/media/aquaman.ce1fcdae.jpeg",
+    "static/media/chrisevans.a9d399e6.jpg": "/static/media/chrisevans.a9d399e6.jpg",
+    "static/media/chrishemsworth.8c3d00de.jpg": "/static/media/chrishemsworth.8c3d00de.jpg",
+    "static/media/ironman.35ee185c.jpeg": "/static/media/ironman.35ee185c.jpeg",
+    "static/media/thor.1e531108.png": "/static/media/thor.1e531108.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd051611.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ee66bcd7.chunk.js",
+    "static/css/main.416c48ef.chunk.css",
+    "static/js/main.6053533d.chunk.js"
+  ]
+}
