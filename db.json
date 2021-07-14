@@ -1,0 +1,229 @@
+{
+  "featuredMovies": [
+    {
+      "id": 1,
+      "name": "deadpool",
+      "image": "/images/Featured Movie/deadpool.jpg"
+    },
+    {
+      "id": 2,
+      "name": "jurrasic",
+      "image": "/images/Featured Movie/jurrasic.jpg"
+    },
+    {
+      "id": 3,
+      "name": "justiceLeague",
+      "image": "/images/Featured Movie/justiceLeague.jpg"
+    },
+    {
+      "id": 4,
+      "name": "tenet",
+      "image": "/images/Featured Movie/tenet.jpg"
+    },
+    {
+      "id": 5,
+      "name": "KongSkull",
+      "image": "/images/Featured Movie/KongSkull.jpg"
+    }
+  ],
+  "featuredTvShow": [
+    {
+      "id": 1,
+      "name": "bigbang",
+      "image": "/images/Featured tv show/bigbang.jpg"
+    },
+    {
+      "id": 2,
+      "name": "friends",
+      "image": "/images/Featured tv show/friends.jpg"
+    },
+    {
+      "id": 3,
+      "name": "brooklyn9",
+      "image": "/images/Featured tv show/brooklyn9.jpg"
+    },
+    {
+      "id": 4,
+      "name": "How_I_Met_Your_Mother",
+      "image": "/images/Featured tv show/How_I_Met_Your_Mother.jpg"
+    },
+    {
+      "id": 5,
+      "name": "house",
+      "image": "/images/Featured tv show/house.jpg"
+    }
+  ],
+  "movieList": [
+    {
+      "id": 1,
+      "name": "Age of Ultron",
+      "image": "/images/movie details page/Age of Ultron/age of ultron.jpg",
+      "cover_image": "/images/movie details page/Age of Ultron/age of ultron.jpg",
+      "description":"Title:Aquaman \n\nOnce home to the most advanced civilization on Earth, the city of Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people -- and then the surface world. Standing in his way is Aquaman, Orm's half-human, half-Atlantean brother and true heir to the throne. With help from royal counselor Vulko, Aquaman must retrieve the legendary Trident of Atlan and embrace his destiny as protector of the deep.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 2,
+      "name": "aquaman",
+      "image": "/images/movie details page/aquaman/aquaman.jpg",
+      "cover_image": "/images/movie details page/aquaman/aquaman.jPG",
+      "description":"Title:Aquaman \n\nOnce home to the most advanced civilization on Earth, the city of Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people -- and then the surface world. Standing in his way is Aquaman, Orm's half-human, half-Atlantean brother and true heir to the throne. With help from royal counselor Vulko, Aquaman must retrieve the legendary Trident of Atlan and embrace his destiny as protector of the deep.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 3,
+      "name": "Avengers End Game",
+      "image": "/images/movie details page/Avengers End Game/end game.jpg",
+      "cover_image": "/images/movie details page/Avengers End Game/end game.jpg",
+      "description":"Title:Avengers - End Game\n\nAdrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 4,
+      "name": "Avengers Infinity War",
+      "image": "/images/movie details page/Avengers Infinity War/infinity war.jpg",
+      "cover_image": "/images/movie details page/Avengers Infinity War/infinity war.jpg",
+      "description":"Title:Avenger Infinity War \n\nIron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality. The fate of the planet and existence itself has never been more uncertain as everything the Avengers have fought for has led up to this moment.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 5,
+      "name": "batman",
+      "image": "/images/movie details page/batman/batman.jpeg",
+      "cover_image": "/images/movie details page/batman/batman.jpeg",
+      "description":"Title:Suicide Squad 2\n\nThe government sends the most dangerous supervillains in the world -- Bloodsport, Peacemaker, King Shark, Harley Quinn and others -- to the remote, enemy-infused island of Corto Maltese. Armed with high-tech weapons, they trek through the dangerous jungle on a search-and-destroy mission, with only Col. Rick Flag on the ground to make them behave.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 6,
+      "name": "Captain America - Civil War",
+      "image": "/images/movie details page/Captain America - Civil War/civil-war.jpg",
+      "cover_image": "/images/movie details page/Captain America - Civil War/civil-war.jpg",
+      "description":"Title:Suicide Squad 2\n\nThe government sends the most dangerous supervillains in the world -- Bloodsport, Peacemaker, King Shark, Harley Quinn and others -- to the remote, enemy-infused island of Corto Maltese. Armed with high-tech weapons, they trek through the dangerous jungle on a search-and-destroy mission, with only Col. Rick Flag on the ground to make them behave.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 7,
+      "name": "joker",
+      "image": "/images/movie details page/joker/joker.jpg",
+      "cover_image": "/images/movie details page/joker/joker.jpg",
+      "description":"Title:Suicide Squad 2\n\nThe government sends the most dangerous supervillains in the world -- Bloodsport, Peacemaker, King Shark, Harley Quinn and others -- to the remote, enemy-infused island of Corto Maltese. Armed with high-tech weapons, they trek through the dangerous jungle on a search-and-destroy mission, with only Col. Rick Flag on the ground to make them behave.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 8,
+      "name": "Spiderman - Far From Home",  
+      "image": "/images/movie details page/Spiderman - Far From Home/spiderman-far-from-home.jpg",
+      "cover_image": "/images/movie details page/Spiderman - Far From Home/spiderman-far-from-home.jpg",
+      "description":"Title:Suicide Squad 2\n\nThe government sends the most dangerous supervillains in the world -- Bloodsport, Peacemaker, King Shark, Harley Quinn and others -- to the remote, enemy-infused island of Corto Maltese. Armed with high-tech weapons, they trek through the dangerous jungle on a search-and-destroy mission, with only Col. Rick Flag on the ground to make them behave.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 9,
+      "name": "suicide squad 2",
+      "image": "/images/movie details page/suicide squad 2/suicide squad 2.png",
+      "cover_image": "/images/movie details page/suicide squad 2/suicide squad 2.png",
+      "description":"Title:Suicide Squad 2\n\nThe government sends the most dangerous supervillains in the world -- Bloodsport, Peacemaker, King Shark, Harley Quinn and others -- to the remote, enemy-infused island of Corto Maltese. Armed with high-tech weapons, they trek through the dangerous jungle on a search-and-destroy mission, with only Col. Rick Flag on the ground to make them behave.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 10,
+      "name": "the flash",
+      "image": "/images/movie details page/the flash/flash.jpg",
+      "cover_image": "/images/movie details page/the flash/flash.jpg",
+      "description":"Title:Suicide Squad 2\n\nThe government sends the most dangerous supervillains in the world -- Bloodsport, Peacemaker, King Shark, Harley Quinn and others -- to the remote, enemy-infused island of Corto Maltese. Armed with high-tech weapons, they trek through the dangerous jungle on a search-and-destroy mission, with only Col. Rick Flag on the ground to make them behave.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 11,
+      "name": "Thor -Ragnarok",
+      "image": "/images/movie details page/Thor -Ragnarok/thor-ragnarok.jpg",
+      "cover_image": "/images/movie details page/Thor -Ragnarok/thor-ragnarok.jpg",
+      "description":"Title:Suicide Squad 2\n\nThe government sends the most dangerous supervillains in the world -- Bloodsport, Peacemaker, King Shark, Harley Quinn and others -- to the remote, enemy-infused island of Corto Maltese. Armed with high-tech weapons, they trek through the dangerous jungle on a search-and-destroy mission, with only Col. Rick Flag on the ground to make them behave.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 12,
+      "name": "Wonder Woman",
+      "image": "/images/movie details page/Wonder Woman/wonderwoman.jpg",
+      "cover_image": "/images/movie details page/Wonder Woman/wonderwoman.jpg",
+      "description":"Title:Suicide Squad 2\n\nThe government sends the most dangerous supervillains in the world -- Bloodsport, Peacemaker, King Shark, Harley Quinn and others -- to the remote, enemy-infused island of Corto Maltese. Armed with high-tech weapons, they trek through the dangerous jungle on a search-and-destroy mission, with only Col. Rick Flag on the ground to make them behave.\nRent : $3.99\nBuy : $5.99"
+    }
+
+  ],
+  "tvshowsList": [
+    {
+      "id": 1,
+      "name": "Brooklyn Nine-Nine",
+      "image": "/images/tv show details page/Brooklyn Nine-Nine/brooklyn9.jpg",
+      "cover_image": "/images/tv show details page/Brooklyn Nine-Nine/brooklyn9.jpg",
+      "description":"Title:Friends\n\nFriends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 2,
+      "name": "Breaking bad",
+      "image": "/images/tv show details page/Breaking Bad/BB.jpg",
+      "cover_image": "/images/tv show details page/Breaking Bad/BB.jpg",
+      "description":"Title:Friends\n\nFriends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 3,
+      "name": "Friends",
+      "image": "/images/tv show details page/Friends/Friends.jpg",
+      "cover_image": "/images/tv show details page/Friends/friends.png",
+      "description":"Title:Friends\n\nFriends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 4,
+      "name": "House",
+      "image": "/images/tv show details page/House/house.jpg",
+      "cover_image": "/images/tv show details page/House/house.jpg",
+      "description":"Title:Friends\n\nFriends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 5,
+      "name": "House of Cards",
+      "image": "/images/tv show details page/House of Cards/cards.jpg",
+      "cover_image": "/images/tv show details page/House of Cards/cards.jfif",
+      "description":"Title:Friends\n\nFriends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 6,
+      "name": "How I met your mother",
+      "image": "/images/tv show details page/How I met your mother/How_I_Met_Your_Mother.jpg",
+      "cover_image": "/images/tv show details page/How I met your mother/How_I_Met_Your_Mother.jfif",
+      "description":"Title:Friends\n\nFriends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 7,
+      "name": "The Big Bang Theory",
+      "image": "/images/tv show details page/The Big Bang Theory/bigbang.jpg",
+      "cover_image": "/images/tv show details page/The Big Bang Theory/bigbang.jpg",
+      "description":"Title:Friends\n\nFriends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 8,
+      "name": "Two and a Half men",
+      "image": "/images/tv show details page/Two and a Half men/Two_and_a_Half_Men.jpg",
+      "cover_image": "/images/tv show details page/Two and a Half men/Two_and_a_Half_Men.jpg",
+      "description":"Title:Friends\n\nFriends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 9,
+      "name": "Prison Break",
+      "image": "/images/tv show details page/PrisonBreak/prison break.jpg",
+      "cover_image": "/images/tv show details page/PrisonBreak/prison-break_cover.jpg",
+      "description":"Title: 6 Underground \n Six individuals from all around the globe, each the very best at what they do, have been chosen not only for their skill, but for a unique desire to delete their pasts to change the future.\n Rent : $3.99\n Buy : $5.99"
+    },
+    {
+      "id": 10,
+      "name": "Sherlock Holmes",
+      "image": "/images/tv show details page/sherlock holmes/sherlockHolmes.jpg",
+      "cover_image": "/images/tv show details page/sherlock holmes/sherlcok_holmes_cover.jfif",
+      "description":"Title:Friends\n\nFriends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 11,
+      "name": "Suits",
+      "image": "/images/tv show details page/Suits/suits.jpg",
+      "cover_image": "/images/tv show details page/Suits/suits_cover.jfif",
+      "description":"Title:Friends\n\nFriends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.\nRent : $3.99\nBuy : $5.99"
+    },
+    {
+      "id": 12,
+      "name": "Superstore",
+      "image": "/images/tv show details page/Superstore/superStore.jpg",
+      "cover_image": "/images/tv show details page/Superstore/superstore_cover.jpeg",
+      "description":"Title:Friends\n\nFriends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.\nRent : $3.99\nBuy : $5.99"
+    }
+  ]
+}

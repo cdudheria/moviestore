@@ -1,0 +1,12 @@
+.FeaturedTVSection {
+  display: flex;
+  flex-direction: row;
+  background: black;
+}
+
+.FeaturedTVSection img {
+  border-radius: 10px !important;
+  width: 15% !important;
+  height: 250px !important;
+  margin: 20px 35px !important;
+}

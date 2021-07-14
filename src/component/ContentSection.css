@@ -1,0 +1,12 @@
+.content {
+  display: flex;
+  flex-direction: row;
+  margin-left: 150px !important;
+  background-color: black;
+  border-radius: 2px !important;
+}
+
+.content img {
+  width: 150px !important;
+  height: 150px !important;
+}

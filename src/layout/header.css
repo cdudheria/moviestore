@@ -1,0 +1,12 @@
+.navbarBg {
+  height: 60px !important;
+  background: black;
+  position: fixed;
+  top: 0;
+  z-index: 999;
+  left: 0;
+  right: 0;
+}
+.navbarBg a:hover {
+  color: grey !important;
+}
